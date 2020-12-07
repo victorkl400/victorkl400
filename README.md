@@ -46,11 +46,3 @@ Hi, I'm Victor Emanuel, young developer with a passion for electronics and appli
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=victorkl400&layout=compact&theme=material-palenight" />
 </a>
 
-<a href="https://github.com/victorkl400/github-readme-stats">
-  <!-- Change the `github-readme-stats.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=victorkl400&repo=github-readme-stats&theme=material-palenight" />
-</a>    
-<a href="https://github.com/victorkl400/victorkl400.github.io">
-  <!-- Change the `github-readme-stats.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=victorkl400&repo=victorkl400.github.io&theme=material-palenight" />
-</a>
