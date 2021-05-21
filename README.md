@@ -27,6 +27,7 @@ Hi, I'm Victor Emanuel, young developer with a passion for electronics and appli
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>    
+<code><img height="20" src="https://visitor-badge.glitch.me/badge?page_id=victorkl400.victorkl400" alt="visitor badge"/></code>
 
 <!--- 
   if you have forked this to use on your profile, 
