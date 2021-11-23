@@ -12,7 +12,7 @@ I'm a young developer with a passion for electronics and applications from Brazi
 
 **Languages and Tools:**  
 
-<code><div style="display: inline_block"><br>
+<div style="display: inline_block"><br>
   <img align="center" alt="JS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="TS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
   <img align="center" alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
@@ -23,7 +23,7 @@ I'm a young developer with a passion for electronics and applications from Brazi
    <img align="center" alt="NextJS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original-wordmark.svg">
   <img align="center" alt="Rust" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-plain.svg">
   <img align="right" alt="pic" height="150" style="border-radius:50px;" src="https://raw.githubusercontent.com/victorkl400/victorkl400/master/assets/memoji.png">
-</div></code>  
+</div>
 
 
 *NOTE: Top languages does not indicate my skill level or something like that, it's a github metric of which languages i have the most code on github.*
