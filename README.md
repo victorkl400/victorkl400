@@ -4,7 +4,7 @@
 <br />
 <br />
 
-I'm a young developer with a passion for electronics and applications from Brazil 🇧🇷.
+I'm a young developer with a passion for electronics and DIY from Brazil 🇧🇷.
 
 - 🌱 I’m currently learning Rust
 - 💬 Ask me about anything [here](https://github.com/victorkl400/victorkl400/issues)
