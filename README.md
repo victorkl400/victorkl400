@@ -29,7 +29,6 @@ I'm a young developer with a passion for electronics and DIY from Brazil ðŸ‡§ðŸ‡
 *NOTE: Top languages does not indicate my skill level or something like that, it's a github metric of which languages i have the most code on github.*
 
 
-![Victor's GitHub stats](https://github-readme-stats.vercel.app/api?username=victorkl400&count_private=true&show_icons=true&include_all_commits=true&theme=material-palenight)
 
 
 ![Snake animation](https://github.com/victorkl400/victorkl400/blob/output/github-contribution-grid-snake.svg)
